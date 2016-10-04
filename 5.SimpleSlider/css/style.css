@@ -1,0 +1,16 @@
+.slider{
+    height: 250px;
+    overflow: hidden;
+}
+
+.slider ul{
+    list-style: none;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.slider li{
+    display: inline-block;
+    
+}
