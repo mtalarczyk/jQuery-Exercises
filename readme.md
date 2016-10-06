@@ -1,6 +1,6 @@
 # jQuery - Exercises
 
-- question and answer list
+- questions and answers list
 - tabs
 - sticky menu
 - progress bar
