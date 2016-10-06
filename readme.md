@@ -1,5 +1,4 @@
 # jQuery - Exercises
-Several exercises coded in jQuery.
 
 - question and answer list
 - tabs
